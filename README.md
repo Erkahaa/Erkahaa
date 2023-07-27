@@ -11,6 +11,16 @@
  ___ 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erkahaa&theme=dracula) 
  ___ 
+<p align="center"> 
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/> 
+ </p> 
+  
+ ### 🎧 Spotify Playing 
+  
+ <p align="center"> 
+   <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a> 
+ </p> 
+ 
   
  <p>Currently listening:</p> 
   
