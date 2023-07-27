@@ -18,9 +18,9 @@
  ### 🎧 Spotify Playing 
   
  <p align="center"> 
-   <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a> 
+   <a href="https://open.spotify.com/user/t8vo4pltlule81fjmnqvu1oyh?si=hpQFgcAHSpWaS1T-0--ksQ" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a> 
  </p> 
-  
+ 
  <details><summary>📈 Stats</summary> 
  <div align="center"> 
  <br> 
@@ -39,3 +39,4 @@
    ![](https://count.getloli.com/get/@Erkahaa?theme=rule34) 
   
  </div>
+ 
