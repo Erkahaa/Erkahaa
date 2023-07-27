@@ -20,13 +20,6 @@
  <p align="center"> 
    <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a> 
  </p> 
- 
-  
- <p>Currently listening:</p> 
-  
- ![](https://spotify-github-profile.vercel.app/api/view.svg?uid=31jlxhrwmfioxnorylcazb44ifwy&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=falserue&background_color=121212&bar_color=53b14f&bar_color_cover=true) 
-  
- </div> 
   
  <details><summary>📈 Stats</summary> 
  <div align="center"> 
