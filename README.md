@@ -18,7 +18,7 @@
  ### 🎧 Spotify Playing 
   
  <p align="center"> 
-   <a href="https://open.spotify.com/user/t8vo4pltlule81fjmnqvu1oyh?si=hpQFgcAHSpWaS1T-0--ksQ" target="_blank"><img src="https://novatorem.vercel.app/api/spotify?background_color=ff57a2&border_color=ffffff" alt="Spotify Now Playing" width="350"/></a> 
+   <a href="https://open.spotify.com/user/t8vo4pltlule81fjmnqvu1oyh?si=hpQFgcAHSpWaS1T-0--ksQ" target="_blank"><img src="https://novatorem.vercel.app/api/spotify?background_color=242429&border_color=ffffff" alt="Spotify Now Playing" width="350"/></a> 
  </p> 
  
  <details><summary>📈 Stats</summary> 
