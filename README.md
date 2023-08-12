@@ -1,5 +1,5 @@
 <p align="center"> 
-     <img src="https://image.gamechosun.co.kr/wlwl_upload/dataroom/df/2022/06/30/508052_1656580808.gif" width="100%" style="margin-left: auto;margin-right: auto;display: block;"> 
+     <img src="https://image.gamechosun.co.kr/wlwl_upload/dataroom/df/2022/06/30/508052_1656580808.gif" width="auto" style="margin-left: auto;margin-right: auto;display: block;"> 
  </p>
 <p align="center"> 
    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" /> 
