@@ -1,4 +1,7 @@
 <p align="center"> 
+     <img src="https://i.postimg.cc/wM03CSP6/07bc58660f1011cecfdc30809a4ddb15.gif" width="100%" style="margin-left: auto;margin-right: auto;display: block;"> 
+ </p>
+<p align="center"> 
    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" /> 
    <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" /> 
    <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" /> 
