@@ -1,5 +1,5 @@
 <p align="center"> 
-     <img src="https://i.ibb.co/GWZNnyk/508052-1656580808.gif" alt="508052-1656580808" border="0"></a> 
+     <img src="https://i.postimg.cc/p91gBj1b/508052-1656580808.gif" alt="Y6RSXTBASE" width="100%" style="margin-left": auto;margin-right: auto;disbplay: block;></a> 
  </p>
 <p align="center"> 
    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" /> 
